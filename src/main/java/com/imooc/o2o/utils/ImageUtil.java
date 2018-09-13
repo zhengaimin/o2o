@@ -16,7 +16,7 @@ import java.util.Random;
  * 日期: 2018-09-10
  * 时间: 19:14
  */
-public class imageUtil {
+public class ImageUtil {
     //文件路径
     private static String basePath = Thread.currentThread().getContextClassLoader().getResource("").getPath();
     //设置日期格式
